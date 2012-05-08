@@ -1,0 +1,39 @@
+.Spotlight-*/
+.Trashes
+._*
+/tmp/*
+/Network/*
+/cores/*
+/afs/*
+/automount/*
+/private/tmp/*
+/private/var/run/*
+/private/var/spool/postfix/*
+/private/var/vm/*
+/Previous Systems.localized
+/Volumes/*
+*/.Trash
+/Library/Caches/*
+/System/Library/Caches/*
+/System/Library/Extensions/Caches/*
+/.DocumentRevisions-V100
+/.MobileBackups
+/MobileBackups.trash
+/.MobileBackups.trash
+/.Spotlight-V100
+/.Trashes
+/.fseventsd
+/.hotfiles.btree
+/Backups.backupdb
+/Desktop DB
+/Desktop DF
+/Network/Servers
+/Previous Systems
+/Users/Shared/SC Info
+/Users/Guest
+/dev
+/home
+/net
+/private/var/db/efw_cache
+/Applications/MATLAB_R2010a.app/*
+
